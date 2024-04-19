@@ -1,0 +1,7 @@
+/node_modules
+
+
+// sempre que precisar utilizar um projeto em outro computador local, so utilizar o npm install
+// yarn resolve problemas de "confusao" e deprendencia do npm
+// node express ele é um modelo http que serve para criar modulos e API'S, mas ele não é autosuficeinte ele precisa de bibliotecas para funcionar
+//
